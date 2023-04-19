@@ -1,0 +1,15 @@
+{
+    "type": "PERSON",
+    "name": "something Junk",
+    "age": 22,
+    "dobProof": {
+        "proofType": "ADHAAR",
+        "value": "something"
+    },
+    "addressProof": {
+        "proofType": "ADHAAR"
+    },
+    "idProof": {
+        "proofType": "ADHAAR"
+    }
+}
